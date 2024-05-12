@@ -1,4 +1,4 @@
-This project was not originally created by me; it was developed as part of my learning journey in Java.
+This project WAS NOT originally created by me; it was developed as part of my learning journey in Java.
 The primary focus is on understanding GUI development and game creation techniques.
 
 <b>Wave Enemies Game </b> is a dynamic and engaging Java-based application designed to challenge players through multiple waves of enemies, each with distinct behaviors and speeds. This game serves as a practical tool for learning game development fundamentals and enhances user interaction skills by controlling a player character via keyboard inputs.
