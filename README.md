@@ -3,7 +3,7 @@ The primary focus is on understanding GUI development and game creation techniqu
 
 <b>Wave Enemies Game </b> is a dynamic and engaging Java-based application designed to challenge players through multiple waves of enemies, each with distinct behaviors and speeds. This game serves as a practical tool for learning game development fundamentals and enhances user interaction skills by controlling a player character via keyboard inputs.
 
-Here's a demo for a better overview on the game : https://youtu.be/obZxmfcMfTM?si=2V-E_0iyjJyWjPwL 
+Here's a demo for a better overview of the game : https://youtu.be/obZxmfcMfTM?si=2V-E_0iyjJyWjPwL 
 
 <b>Technical Specifications:</b>
 
