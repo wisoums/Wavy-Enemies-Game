@@ -5,9 +5,9 @@ The primary focus is on understanding GUI development and game creation techniqu
 
 <b>Technical Specifications:</b>
 
-  - Data Structure: Uses Java classes and interfaces to manage game objects like players and enemies. Each object type inherits from a common GameObject class that handles attributes such as position and movement.
+  - Architecture: Leverages object-oriented programming to structure game elements like players, enemies, and the game environment. Each game entity is derived from a common GameObject class, which encapsulates characteristics such as position and movement behavior.
 
-  - Functionality: Includes player movement, collision detection, enemy spawning, and game state management. Features an incremental difficulty level where enemies gain speed and complexity as the game progresses.
+  - Functionality: Features include handling player controls, detecting collisions between objects, managing enemy spawn mechanics, and tracking game states. The game difficulty increases as players progress, introducing faster and more challenging enemies.
 
-  - Interactivity: Offers a simple and intuitive user interface using Java Swing, allowing players to start the game, pause, and resume. The HUD provides real-time updates on player health and score, enhancing the gameplay experience with immediate feedback.
+  - Interactivity: Utilizes Java Swing for the graphical user interface, providing a straightforward menu system for game controls and navigation. A Heads-Up Display (HUD) offers real-time feedback on player stats like health and score, enhancing user engagement and gameplay strategy.
 
